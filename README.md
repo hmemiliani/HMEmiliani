@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="https://ibb.co/cD0zxwW"><img src="https://i.ibb.co/Bqb8wGh/Improving-hmemiliani.png" alt="Improving-hmemiliani" border="0"></a>
 
-<!--
-**hmemiliani/HMEmiliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a person passionate about technology who wants to learn more every day, I learn fast and I love looking for new things to learn, now I am determined to learn web development, it's something that I've always wanted to do... I only have the basics but I will improve day by day.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in a Contact Center
+- 🌱 I’m currently learning HTML, CSS and JS
+- 👯 I’m looking to collaborate on frontend development projects
+- 🤔 I’m looking for help to improve my knowledge
+- 💬 Ask me about anything, if I do not have an answer I assure you that I will look for the answer
+- 📫 How to reach me: <a href="mailto:harold_medranoe@hotmail.com">My Email</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Ketchup was once sold as medicine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
